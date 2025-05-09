@@ -22,14 +22,14 @@ A simple Python command-line tool that monitors and displays real-time network u
 
 ---
 
-##  Preview
-
-
----
 
 ##  Requirements
+### Install dependencies using:
 
+
+-pip install psutil
 - Python 3.6+
+  
 - [psutil](https://pypi.org/project/psutil/)
 ![Screenshot 2025-05-09 162740](https://github.com/user-attachments/assets/e4f51bcb-3c2d-4bff-b1cd-1cb2ca4beb35)
 
@@ -40,8 +40,5 @@ A simple Python command-line tool that monitors and displays real-time network u
  ```bash
   python network_monitor.py
 
-Install dependencies using:
 
-```bash
-pip install psutil
 
